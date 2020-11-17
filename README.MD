@@ -4,15 +4,20 @@ https://docs.google.com/document/d/1ozHGUS2nHm2bG2TjlVbdyP6XH3SKGrES4ab1Dg_17U0/
 
 # What we all did
 
-Brayden - 
+Brayden - Added POST, Python Lists, Glowing text, The emojis, Made the weekly docs
 
-Billy -
 
-Lola - 
+Billy - Variables and Dictionaries in intelliJ, Used POST, Tastydessert.html, Healthylunches.html, Shoppingbag.html, Created return home button
 
-Ryan - 
 
-Grace -
+Lola - Integrated into class IntelliJ, HealthyDinners.html, Added to the format of the main page + most pictures, Dictionaries for Healthy dinners
+
+
+Ryan - transitioned project to github, othershopping.html, python lists, read.me
+
+
+Grace - Python lists, Drop down menu, Navigation bar, Worked on the Home Page along with Brayden, Main store of Coder Joe’s, Deployed our project off of Raspberry Pi
+
 
 
 # Coder Joe's
