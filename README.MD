@@ -16,7 +16,7 @@ https://github.com/ryanmgds/Switchtointellij
 Brayden - Added POST, Python Lists, Glowing text, The emojis, Made the weekly docs
 
 
-Billy - Variables and Dictionaries in intelliJ, Used POST, Tastydessert.html, Healthylunches.html, Shoppingbag.html, Created return home button
+Billy - Variables and Dictionaries in intelliJ, Used POST, Tastydessert.html, Healthylunches.html, Shoppingbag.html, Created the return home button.
 
 
 Lola - Integrated into class IntelliJ, HealthyDinners.html, Added to the format of the main page + most pictures, Dictionaries for Healthy dinners
