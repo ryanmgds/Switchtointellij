@@ -52,7 +52,8 @@ We used bootstrap while making our dropdown menu.
 We used jinja in the tastydeserts.html, where we passed a python list.
 ## Github link
 https://github.com/ryanmgds/Flask-Web-Series-Coder-Joes1
+https://github.com/ryanmgds/Switchtointellij
 ## Group video 
-https://youtu.be/GPWMJ7X6dlo 
+
 
 
