@@ -18,6 +18,7 @@ Ryan - transitioned project to github, othershopping.html, python lists, read.me
 
 Grace - Python lists, Drop down menu, Navigation bar, Worked on the Home Page along with Brayden, Main store of Coder Joe’s, Deployed our project off of Raspberry Pi
 
+## TODO'S
 
 
 # Coder Joe's
