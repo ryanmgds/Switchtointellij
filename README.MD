@@ -31,7 +31,7 @@ Grace - Python lists, Drop down menu, Navigation bar, Worked on the Home Page al
 
 
 # Coder Joe's
-This is our first website. This is a store where you can get healthy food options and are given recipes to many dishes. We also linked our project concept, plan, and journals.
+This is our first group website. This is a store where you can get healthy food options and are given recipes to many dishes. We also linked our project concept, plan, and journals.
 
 ## Main store
 This will give the newest foods we discovered and our most famous recipes.
@@ -40,7 +40,7 @@ This will give the newest foods we discovered and our most famous recipes.
 This is where you can find recipes to healthy lunches and dinners. You can get discriptions of the foods and recipes.
 
 ## Tasty Desserts
-This is where you can find recipes and descriptions of our most famous desserts.
+This is where you can find recipes and descriptions of our most famous desserts. Also includes POST which means you can code on the actual page.
 
 # Other Shopping
 Whenever your bored with shopping or looking for recipes, you can look at coding jokes and different coding videos for joy and entertainment! 
