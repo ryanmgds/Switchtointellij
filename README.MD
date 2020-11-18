@@ -1,6 +1,15 @@
 # FINAL self-grading Wednesday 18, 2020
 
-https://docs.google.com/document/d/1ozHGUS2nHm2bG2TjlVbdyP6XH3SKGrES4ab1Dg_17U0/edit?usp=sharing
+https://docs.google.com/document/d/1ozHGUS2nHm2bG2TjlVbdyP6XH3SKGrES4ab1Dg_17U0/edit?usp=sharing 
+
+## N@M Link
+
+## Rasberry Pi Link
+
+## Github link
+https://github.com/ryanmgds/Flask-Web-Series-Coder-Joes1
+
+https://github.com/ryanmgds/Switchtointellij
 
 # What we all did
 
@@ -50,9 +59,6 @@ We used flask to make our webiste and we had many app.route so that when you cli
 We used bootstrap while making our dropdown menu. 
 ## Usage of Jinja
 We used jinja in the tastydeserts.html, where we passed a python list.
-## Github link
-https://github.com/ryanmgds/Flask-Web-Series-Coder-Joes1
-https://github.com/ryanmgds/Switchtointellij
 ## Group video 
 
 
