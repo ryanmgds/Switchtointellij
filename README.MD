@@ -28,7 +28,7 @@ Ryan - transitioned project to github, othershopping.html, python lists, read.me
 Grace - Python lists, Drop down menu, Navigation bar, Worked on the Home Page along with Brayden, Main store of Coder Joe’s, Deployed our project off of Raspberry Pi
 
 ## TODO'S
-
+https://docs.google.com/document/d/1JkWeft8MqT7tCfr9x1OU84CaTytWPEwkSdbs9mpzphE/edit?usp=sharing
 
 # Coder Joe's
 This is our first website. This is a store where you can get healthy food options and are given recipes to many dishes. We also linked our project concept, plan, and journals.
