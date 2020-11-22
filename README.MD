@@ -3,9 +3,9 @@
 https://docs.google.com/document/d/1ozHGUS2nHm2bG2TjlVbdyP6XH3SKGrES4ab1Dg_17U0/edit?usp=sharing 
 
 ## N@M Link
-
+http://127.0.0.1:5002/period4/
 ## Rasberry Pi Link
-
+HTTP://coderjoes.cf
 ## Github link
 https://github.com/ryanmgds/Flask-Web-Series-Coder-Joes1
 
