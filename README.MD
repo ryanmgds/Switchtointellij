@@ -11,6 +11,9 @@ https://github.com/ryanmgds/Flask-Web-Series-Coder-Joes1
 
 https://github.com/ryanmgds/Switchtointellij
 
+## Optional Video Guide
+https://youtu.be/T0TzZxyDHFI 
+
 # What we all did
 
 Brayden - Added POST, Python Lists, Glowing text, The emojis, Made the weekly docs
@@ -59,7 +62,7 @@ We used flask to make our webiste and we had many app.route so that when you cli
 We used bootstrap while making our dropdown menu. 
 ## Usage of Jinja
 We used jinja in the tastydeserts.html, where we passed a python list.
-## Group video 
+ 
 
 
 
